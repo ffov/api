@@ -1,0 +1,63 @@
+{
+  "name": "Freifunk Ostvest",
+  "url": "http://freifunk-ostvest.de",
+  "location": {
+    "city": "Datteln",
+    "country": "DE",
+    "lat": 51.641067,
+    "lon": 7.321787
+  },
+  "contact": {
+    "email": "info@freifunk-ostvest.de",
+    "phone": "+49236325933730",
+    "facebook": "https://www.facebook.com/freifunk.ostvest.de/",
+    "twitter": "@FFOstvest"
+  },
+  "metacommunity": "Förderverein Freie Infrastruktur e.V.",
+  "state": {
+    "nodes": 176,
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi"
+    ],
+    "lastchange": "2017-10-07T14:33:24.295Z"
+  },
+  "support": {
+    "club": {
+      "name": "Förderverein Freie Infrastruktur e.V.",
+      "street": "Wallheckenstr. 36",
+      "zip": "46325",
+      "city": "Borken - Weseke",
+      "url": "https://infrastruktur.ms",
+      "email": "vorstand@infrastruktur.ms",
+      "board": [
+        ""
+      ]
+    },
+    "donations": {
+      "bankaccount": {
+        "IBAN": "DE98 4015 4530 0050 2018 05",
+        "BIC": "WELADE3WXXX",
+        "usage": "Infrastruktur Ostvest"
+      }
+    }
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "Freifunk Ostvest Community",
+      "url": "http://firmware.freifunk-muensterland.de/",
+      "vpnaccess": "fwimage"
+    },
+    "routing": [
+      "802.11s",
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.14"
+}
